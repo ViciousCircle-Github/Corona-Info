@@ -1,2 +1,2 @@
 # COVID-ALPHA
-eluwina
+Covid 19 app
